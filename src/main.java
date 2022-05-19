@@ -5,5 +5,7 @@ public class main {
         System.out.println(" I am working on git" );
 
         System.out.println(" second commit " );
+        System.out.println("java is amazing" );
+
     }
 }
